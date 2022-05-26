@@ -15,7 +15,8 @@ The goal of this analysis was to find information on vulnerable populations in c
 **R packages:** tidyverse  
 **ArcMap version:** 10.8.2 
 - Used ArcGIS to filter census tracts and spacially join American Community Survey (ACS) data to the City's NOAH data.  
-- Used R to clean and manipulate the data and create visualizations.   
+- Used R to clean and manipulate the data and create visualizations.  
+ 
 **Data:**  
 - Division of Housing and Community Development NOAH Analysis Data
 - American Community Survey data
@@ -27,7 +28,7 @@ The goal of this analysis was to find information on vulnerable populations in c
 4. In another 11% of tracts, non-White residents are the majority of the population. 
 5. In total, 52% of tracts with high concentrations of vulnerable NOAH properties are majority non-White.  
 6. Ultimately the target tracts have slighlty lower proportions of vulnerable populations than the City as a whole.  
-7. 
+
 ## Visualizations 
 In the following visualization, "Majority Non-White" indicates tracts where White residents are a plurality of the population, "Majority one minority racial/ethnic group" indicates tracts where a single minority racial or ethnic group makes up the majority of the population, and "Plurality one minority racial/ethnic group" indicates tracts where a single minority racial or ethnic group makes up a plurality of the population.  
 ![alt text](https://github.com/sfinnexe/NOAH_demographics/blob/main/Racial%20Demographics%20OTF%20NOAH.jpeg)  
