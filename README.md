@@ -1,8 +1,9 @@
 # Naturally Occuring Affordable Housing (NOAH) Demographics
 
-The goal of this analysis was to find the racial and ethnic demographic information of census tracts in Philadelphia where there is a high concentration of vulnearable NOAH properties.  
+The goal of this analysis was to find information on vulnerable populations in census tracts in Philadelphia where there is a high concentration of vulnearable NOAH properties.  
 
 ## Definitions
+**vulnerable populations:** single mothers with children, people with disabilities, and racial/ethnic minorities
 **high concentration of NOAH properties:** census tracts in which there are more than 50 identified vulnerable NOAH properties. These census tracts account for less than half of census tracts in Philadelphia.  
 **vulnerable NOAH properties must meet at least 1 of 3 criteria:**
 1. They are within a census tract with a displacement risk ratio (DRR) of over 0.78
@@ -25,7 +26,8 @@ The goal of this analysis was to find the racial and ethnic demographic informat
 3. 41% of tracts with high concentrations of vulnerable NOAH properties are predominantly populated by a ***single*** minority racial/ethnic group.
 4. In another 11% of tracts, non-White residents are the majority of the population. 
 5. In total, 52% of tracts with high concentrations of vulnerable NOAH properties are majority non-White.  
-6. 
+6. Ultimately the target tracts have slighlty lower proportions of vulnerable populations than the City as a whole.  
+7. 
 ## Visualizations 
 In the following visualization, "Majority Non-White" indicates tracts where White residents are a plurality of the population, "Majority one minority racial/ethnic group" indicates tracts where a single minority racial or ethnic group makes up the majority of the population, and "Plurality one minority racial/ethnic group" indicates tracts where a single minority racial or ethnic group makes up a plurality of the population.  
 ![alt text](https://github.com/sfinnexe/NOAH_demographics/blob/main/Racial%20Demographics%20OTF%20NOAH.jpeg)  
