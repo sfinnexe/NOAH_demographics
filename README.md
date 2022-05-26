@@ -3,7 +3,7 @@
 The goal of this analysis was to find information on vulnerable populations in census tracts in Philadelphia where there is a high concentration of vulnearable NOAH properties.  
 
 ## Definitions
-**vulnerable populations:** single mothers with children, people with disabilities, and racial/ethnic minorities
+**vulnerable populations:** single mothers with children, people with disabilities, and racial/ethnic minorities  
 **high concentration of NOAH properties:** census tracts in which there are more than 50 identified vulnerable NOAH properties. These census tracts account for less than half of census tracts in Philadelphia.  
 **vulnerable NOAH properties must meet at least 1 of 3 criteria:**
 1. They are within a census tract with a displacement risk ratio (DRR) of over 0.78
@@ -15,7 +15,7 @@ The goal of this analysis was to find information on vulnerable populations in c
 **R packages:** tidyverse  
 **ArcMap version:** 10.8.2 
 - Used ArcGIS to filter census tracts and spacially join American Community Survey (ACS) data to the City's NOAH data.  
-- Used R to clean and manipulate the data and create visualizations. 
+- Used R to clean and manipulate the data and create visualizations.   
 **Data:**  
 - Division of Housing and Community Development NOAH Analysis Data
 - American Community Survey data
