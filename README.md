@@ -1,4 +1,13 @@
 # Naturally Occuring Affordable Housing (NOAH) Demographics
-## Demographic analysis of census tracts in Philadelphia with high concentrations of vulnerable Naturally Occuring Affordable Housing
 
+The goal of this analysis was to find the racial and ethnic demographic information of census tracts in Philadelphia where there is a high concentration of vulnearable NOAH properties. 
 
+## Definitions
+**high concentration of NOAH properties:** 
+**vulnerable NOAH properties:**
+
+## Code and Resources used
+
+## Data
+
+## Visualizations 
