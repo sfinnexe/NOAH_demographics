@@ -1,6 +1,6 @@
 # Naturally Occuring Affordable Housing (NOAH) Demographics: Overview
 
-The goal of this analysis was to find information on vulnerable populations in census tracts in Philadelphia where there is a high concentration of vulnearable NOAH properties.  
+The goal of this analysis was to find information on vulnerable populations in census tracts in Philadelphia where there is a high concentration of vulnerable NOAH properties.  
 
 ## Definitions
 **vulnerable populations:** single mothers with children, people with disabilities, and racial/ethnic minorities  
